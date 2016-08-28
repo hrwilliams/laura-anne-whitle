@@ -1,0 +1,31 @@
+@font-face {
+  font-family: openSans;
+  src: url(OpenSans-Regular.ttf);
+}
+
+@font-face {
+  font-family: openSansBold;
+  src: url(OpenSans-Bold.ttf);
+}
+
+@font-face {
+  font-family: openSansLight;
+  src: url(OpenSans-Light.ttf);
+}
+
+p  {
+  font-family: openSansLight;
+  list-style-type: none;
+  line-height: 1.6em;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+
+.centered {
+  text-align: center;
+}
+
+body {
+  font-family: openSans;
+}

@@ -1,0 +1,39 @@
+@font-face {
+    font-family: liberationSans;
+    src: url(LiberationSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: liberationSansBold;
+    src: url(LiberationSans-Bold.ttf);
+}
+
+@font-face {
+    font-family: openSans;
+    src: url(OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: openSansBold;
+    src: url(OpenSans-Bold.ttf);
+}
+
+/*h1  {
+  font-family: liberationSansBold;
+}*/
+
+body {
+  font-family: liberationSans;
+}
+
+/*h1  {
+  font-family: openSansBold;
+}*/
+
+/*body {
+  font-family: openSans;
+}*/
+
+.centered {
+  text-align: center;
+}
