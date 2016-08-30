@@ -24,6 +24,7 @@
 
 body {
   font-family: liberationSans;
+  background-color: #3cbb99;
 }
 
 /*h1  {
@@ -34,6 +35,16 @@ body {
   font-family: openSans;
 }*/
 
-.centered {
+/*.centered {
+  text-align: center;
+}*/
+a:link{
+  color: black;
+}
+
+a:visited{
+  color: black;
+}
+.contactLinks {
   text-align: center;
 }
