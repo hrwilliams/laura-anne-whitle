@@ -30,6 +30,8 @@ h1  {
 body {
   font-family: openSans;
   background-color: #3cbb99;
+  margin-left: 40px;
+  margin-right: 40px;
 }
 
 /*.centered {
@@ -44,4 +46,14 @@ a:visited{
 }
 .contactLinks {
   text-align: center;
+}
+
+.name h2 {
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.law {
+  font-size: 30px;
 }
