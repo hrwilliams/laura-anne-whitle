@@ -22,18 +22,15 @@
   font-family: liberationSansBold;
 }*/
 
-body {
-  font-family: liberationSans;
-  background-color: #3cbb99;
-}
-
-/*h1  {
+/*
+h1  {
   font-family: openSansBold;
 }*/
 
-/*body {
+body {
   font-family: openSans;
-}*/
+  background-color: #3cbb99;
+}
 
 /*.centered {
   text-align: center;
